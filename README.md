@@ -7,6 +7,9 @@ Este repositório está sendo feito a partir de dados públicos para centralizar
 * Encontrar maneiras inteligentes de transformar os documentos (muitas vezes em PDF) em dados CSV utilizáveis
 * Encontrar padrões nos links dos documentos e criar códigos para baixa-los e/ou parsea-los automaticamente
 
+Outros tópicos:
+* A comvest disponibiliza consulta php à base de dados do questionário socioeconomico (http://www.comvest.unicamp.br/estatisticas/2016/quest/quest1.php), Se alguém fizer um crawler para buscar essas informações seria um ganho em relação aos pdf que o site disponibiliza =)
+
 # Alguns links úteis
 
 * https://pad.riseup.net/p/Hackathon_TU
