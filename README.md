@@ -5,10 +5,9 @@ Este repositório está sendo feito a partir de dados públicos para centralizar
 * Contribuir com mais documentos para a base, indicando a fonte com links
 * Melhorar este documento
 * Encontrar maneiras inteligentes de transformar os documentos (muitas vezes em PDF) em dados CSV utilizáveis
-* Encontrar padrões nos links dos documentos e criar códigos para baixa-los e/ou parsea-los automaticamente
+* Encontrar padrões nos links dos documentos e criar códigos para baixa-los e/ou parsea-los automaticamente em CSV
 
 Outros tópicos:
-* A comvest disponibiliza consulta php à base de dados do questionário socioeconomico (http://www.comvest.unicamp.br/estatisticas/2016/quest/quest1.php), Se alguém fizer um crawler para buscar essas informações seria um ganho em relação aos pdf que o site disponibiliza =)
 * Caso você queira conbrituir analisando dados, procure pelos arquivos CSV presentes nas pastas
   * https://github.com/transparenciaunicamp/dados-publicos/tree/master/dga/dados_csv
   * https://github.com/transparenciaunicamp/dados-publicos/tree/master/aeplan/ICMS
