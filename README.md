@@ -16,3 +16,5 @@ Este repositório está sendo feito a partir de dados públicos para centralizar
 > (provavelmente todos os links estarão baixados neste repositório, basta usar o git clone para baixar e procurar padrões)
 * http://www.aeplan.unicamp.br/proposta_orcamentaria/orcamento.php
 * https://drive.google.com/folderview?id=0B0NcjJLUIUCaRDM0ZS12ejFoN0E&usp=drive_web
+* http://www.dgrh.unicamp.br/documentos/formularios
+* http://www.transparencia.sp.gov.br/explicativa.html
