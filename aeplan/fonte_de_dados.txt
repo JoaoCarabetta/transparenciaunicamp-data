@@ -1,12 +1,2 @@
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2005.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2006.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2007.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2008.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2009.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2010.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2011.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2012.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2013.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2014.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2015.pdf
-http://www.aeplan.unicamp.br/proposta_orcamentaria/unicamp/pdo_unicamp_2016.pdf
+http://www.aeplan.unicamp.br/liberacao_financeira/pdf_fechamento/fechamento_2015.pdf
+http://www.aeplan.unicamp.br/recursos_extras/pdf/recursos_extras_orcamentarios.pdf
