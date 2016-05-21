@@ -1,0 +1,119 @@
+tipo,sequencial,especificacao,valor,ano
+INGRESSOS,1,Receita Orçamentária (I),"1.107.910.169,03",2015
+INGRESSOS,1.1,Ordinária,"214.637.459,12",2015
+INGRESSOS,1.2,Vinculada,"893.272.709,91",2015
+INGRESSOS,1.2.1,Educação,"220.211.617,90",2015
+INGRESSOS,1.2.2,Saúde,"646.618.311,73",2015
+INGRESSOS,1.2.3,Alienação de Bens / Ativos,"47.222,65",2015
+INGRESSOS,1.2.4,Convênios Federais,"26.395.557,63",2015
+INGRESSOS,2,Transferências Financeiras Recebidas (II),"1.581.994.112,89",2015
+INGRESSOS,2.1,Repasses Obrigatórios por Lei,"1.581.994.112,89",2015
+INGRESSOS,3,Recebimentos Extraorçamentários (III),"851.483.292,72",2015
+INGRESSOS,3.1,Inscrição de Restos a Pagar Processados,"160.080.613,08",2015
+INGRESSOS,3.2,Inscrição de Restos a Pagar Não Processados,"53.788.365,93",2015
+INGRESSOS,3.3,Consignações,"494.039.479,10",2015
+INGRESSOS,3.4,Depósitos de Terceiros,"8.795.098,06",2015
+INGRESSOS,3.5,Obrigações Judiciais,"6.638.442,29",2015
+INGRESSOS,3.6,Recolhimentos Diversos a Classificar,-,2015
+INGRESSOS,3.7,Desincorporações de Obrigações - Provisões,"4.843.885,93",2015
+INGRESSOS,3.8,Receitas Diferidas,"41.918.284,05",2015
+INGRESSOS,3.9,Créditos Recebidos referente ao exercício anterior,"37.039.067,40",2015
+INGRESSOS,3.10,Pensionistas / SPPREV,"44.340.056,88",2015
+INGRESSOS,4,Saldo em Espécie do Exercício Anterior (IV),"1.185.597.078,86",2015
+INGRESSOS,4.1,Banco Conta Única,"833.395,00",2015
+INGRESSOS,4.2,Bancos Conta Movimento,"131.052,30",2015
+INGRESSOS,4.3,Aplicações Financeiras,"1.184.632.631,56",2015
+INGRESSOS,4.3.1,Banco Santander,"594.420.654,58",2015
+INGRESSOS,4.3.2,Caixa Economica Federal,"47.954,09",2015
+INGRESSOS,4.3.3,Banco do Brasil S/A,"586.080.982,92",2015
+INGRESSOS,4.3.4,Outras Aplicações,"4.083.039,97",2015
+INGRESSOS,4.4,Depósitos Restituiveis e Valores Vinculados,-,2015
+INGRESSOS,TOTAL,TOTAL,"4.726.984.653,50",2015
+INGRESSOS,1,Receita Orçamentária (I),"1.213.777.223,77",2014
+INGRESSOS,1.1,Ordinária,"363.055.949,06",2014
+INGRESSOS,1.2,Vinculada,"850.721.274,71",2014
+INGRESSOS,1.2.1,Educação,"219.254.837,01",2014
+INGRESSOS,1.2.2,Saúde,"611.352.632,38",2014
+INGRESSOS,1.2.3,Alienação de Bens / Ativos,"154.008,98",2014
+INGRESSOS,1.2.4,Convênios Federais,"19.959.796,34",2014
+INGRESSOS,2,Transferências Financeiras Recebidas (II),"1.546.511.546,04",2014
+INGRESSOS,2.1,Repasses Obrigatórios por Lei,"1.546.511.546,04",2014
+INGRESSOS,3,Recebimentos Extraorçamentários (III),"772.753.451,49",2014
+INGRESSOS,3.1,Inscrição de Restos a Pagar Processados,"158.749.959,78",2014
+INGRESSOS,3.2,Inscrição de Restos a Pagar Não Processados,"54.432.512,44",2014
+INGRESSOS,3.3,Consignações,"423.888.792,63",2014
+INGRESSOS,3.4,Depósitos de Terceiros,"61.270.154,52",2014
+INGRESSOS,3.5,Obrigações Judiciais,"4.252.301,29",2014
+INGRESSOS,3.6,Recolhimentos Diversos a Classificar,"1.950,84",2014
+INGRESSOS,3.7,Desincorporações de Obrigações - Provisões,"3.877.793,41",2014
+INGRESSOS,3.8,Receitas Diferidas,"35.404.964,57",2014
+INGRESSOS,3.9,Créditos Recebidos referente ao exercício anterior,"30.875.022,01",2014
+INGRESSOS,3.10,Pensionistas / SPPREV,-,2014
+INGRESSOS,4,Saldo em Espécie do Exercício Anterior (IV),"1.317.348.255,49",2014
+INGRESSOS,4.1,Banco Conta Única,-,2014
+INGRESSOS,4.2,Bancos Conta Movimento,"87.978,90",2014
+INGRESSOS,4.3,Aplicações Financeiras,"1.317.260.276,59",2014
+INGRESSOS,4.3.1,Banco Santander,"606.834.845,87",2014
+INGRESSOS,4.3.2,Caixa Economica Federal,"65.629,86",2014
+INGRESSOS,4.3.3,Banco do Brasil S/A,"706.749.907,11",2014
+INGRESSOS,4.3.4,Outras Aplicações,"3.609.893,75",2014
+INGRESSOS,4.4,Depósitos Restituiveis e Valores Vinculados,-,2014
+INGRESSOS,TOTAL,TOTAL,"4.850.390.476,79",2014
+DISPÊNDIOS,5,Despesa Orçamentária (VI),"2.752.055.102,95",2015
+DISPÊNDIOS,5.1,Ordinária,"1.858.782.393,04",2015
+DISPÊNDIOS,5.2,Vinculada,"893.272.709,91",2015
+DISPÊNDIOS,5.2.1,Educação,"220.211.617,90",2015
+DISPÊNDIOS,5.2.2,Saúde,"646.618.311,73",2015
+DISPÊNDIOS,5.2.3,Alienação de Bens / Ativos,"47.222,65",2015
+DISPÊNDIOS,5.2.4,Convênios Federais,"26.395.557,63",2015
+DISPÊNDIOS,6,Transferências Financeiras Concedidas (VII),-,2015
+DISPÊNDIOS,7,Pagamentos Extraorçamentários (VIII),"861.082.864,09",2015
+DISPÊNDIOS,7.1,Restos a Pagar Processados Pagos,"157.177.294,36",2015
+DISPÊNDIOS,7.2,Restos a Pagar Não Processados Pagos,"44.351.875,78",2015
+DISPÊNDIOS,7.3,Consignações,"491.407.831,03",2015
+DISPÊNDIOS,7.4,Depósitos de Terceiros,"8.604.982,51",2015
+DISPÊNDIOS,7.5,Outras Obrigações de Curto Prazo,"4.252.301,29",2015
+DISPÊNDIOS,7.6,Recolhimentos Diversos a Classificar,"1.950,84",2015
+DISPÊNDIOS,7.7,Incorporações de Obrigações - Provisões,"7.230.026,93",2015
+DISPÊNDIOS,7.8,Retorno da Receita Diferida,"110.766.452,87",2015
+DISPÊNDIOS,7.9,Créditos a Receber em exercício seguinte,"37.290.148,48",2015
+DISPÊNDIOS,7.10,Contas Pendentes,-,2015
+DISPÊNDIOS,8,Saldo em Espécie para o Exercício Seguinte (IX),"1.113.846.686,46",2015
+DISPÊNDIOS,8.1,Banco Conta Única,-,2015
+DISPÊNDIOS,8.2,Bancos Conta Movimento,"40.047,59",2015
+DISPÊNDIOS,8.3,Aplicações Financeiras,"1.110.012.435,29",2015
+DISPÊNDIOS,8.3.1,Banco Santander,"343.561.280,04",2015
+DISPÊNDIOS,8.3.2,Caixa Economica Federal,"46.811,10",2015
+DISPÊNDIOS,8.3.3,Banco do Brasil S/A,"763.738.485,42",2015
+DISPÊNDIOS,8.3.4,Outras Aplicações,"2.665.858,73",2015
+DISPÊNDIOS,8.4,Depósitos Restituiveis e Valores Vinculados,"3.794.203,58",2015
+DISPÊNDIOS,TOTAL,TOTAL,"4.726.984.653,50",2015
+DISPÊNDIOS,5,Despesa Orçamentária (VI),"2.771.461.228,40",2014
+DISPÊNDIOS,5.1,Ordinária,"1.920.739.953,69",2014
+DISPÊNDIOS,5.2,Vinculada,"850.721.274,71",2014
+DISPÊNDIOS,5.2.1,Educação,"219.254.837,01",2014
+DISPÊNDIOS,5.2.2,Saúde,"611.352.632,38",2014
+DISPÊNDIOS,5.2.3,Alienação de Bens / Ativos,"154.008,98",2014
+DISPÊNDIOS,5.2.4,Convênios Federais,"19.959.796,34",2014
+DISPÊNDIOS,6,Transferências Financeiras Concedidas (VII),-,2014
+DISPÊNDIOS,7,Pagamentos Extraorçamentários (VIII),"893.332.169,53",2014
+DISPÊNDIOS,7.1,Restos a Pagar Processados Pagos,"131.509.593,19",2014
+DISPÊNDIOS,7.2,Restos a Pagar Não Processados Pagos,"41.198.480,37",2014
+DISPÊNDIOS,7.3,Consignações,"420.880.007,92",2014
+DISPÊNDIOS,7.4,Depósitos de Terceiros,"536.070,76",2014
+DISPÊNDIOS,7.5,Outras Obrigações de Curto Prazo,"3.715.973,80",2014
+DISPÊNDIOS,7.6,Recolhimentos Diversos a Classificar,"71,53",2014
+DISPÊNDIOS,7.7,Incorporações de Obrigações - Provisões,"4.414.120,90",2014
+DISPÊNDIOS,7.8,Retorno da Receita Diferida,"236.900.337,78",2014
+DISPÊNDIOS,7.9,Créditos a Receber em exercício seguinte,"37.409.592,82",2014
+DISPÊNDIOS,7.10,Contas Pendentes,"16.767.920,46",2014
+DISPÊNDIOS,8,Saldo em Espécie para o Exercício Seguinte (IX),"1.185.597.078,86",2014
+DISPÊNDIOS,8.1,Banco Conta Única,"833.395,00",2014
+DISPÊNDIOS,8.2,Bancos Conta Movimento,"131.052,30",2014
+DISPÊNDIOS,8.3,Aplicações Financeiras,"1.184.632.631,56",2014
+DISPÊNDIOS,8.3.1,Banco Santander,"594.420.654,58",2014
+DISPÊNDIOS,8.3.2,Caixa Economica Federal,"47.954,09",2014
+DISPÊNDIOS,8.3.3,Banco do Brasil S/A,"586.080.982,92",2014
+DISPÊNDIOS,8.3.4,Outras Aplicações,"4.083.039,97",2014
+DISPÊNDIOS,8.4,Depósitos Restituiveis e Valores Vinculados,-,2014
+DISPÊNDIOS,TOTAL,TOTAL,"4.850.390.476,79",2014
