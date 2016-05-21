@@ -9,6 +9,9 @@ Este repositório está sendo feito a partir de dados públicos para centralizar
 
 Outros tópicos:
 * A comvest disponibiliza consulta php à base de dados do questionário socioeconomico (http://www.comvest.unicamp.br/estatisticas/2016/quest/quest1.php), Se alguém fizer um crawler para buscar essas informações seria um ganho em relação aos pdf que o site disponibiliza =)
+* Caso você queira conbrituir analisando dados, procure pelos arquivos CSV presentes nas pastas
+  * https://github.com/transparenciaunicamp/dados-publicos/tree/master/dga/dados_csv
+  * https://github.com/transparenciaunicamp/dados-publicos/tree/master/aeplan/ICMS
 
 # Alguns links úteis
 
